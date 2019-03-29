@@ -1,12 +1,13 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
+[![Build Status](https://travis-ci.com/401-advanced-javascript-billybunn/lab-09.svg?branch=working)](https://travis-ci.com/401-advanced-javascript-billybunn/lab-09)
 
 <!-- LINKS -->
 <!-- Replace the link for each in brackets below -->
 <!-- PR (working into submission) -->
 [1]: http://xyz.com
 <!-- travis build -->
-[2]: https://www.travis-ci.com/YOUR_ORG_NAME/REPO_NAME
+[2]: https://travis-ci.com/401-advanced-javascript-billybunn/lab-09/builds/106270634
 <!-- back-end -->
 [3]: http://xyz.com
 <!-- front-end -->
