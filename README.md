@@ -9,13 +9,13 @@
 <!-- travis build -->
 [2]: https://travis-ci.com/401-advanced-javascript-billybunn/lab-09/builds/106270634
 <!-- back-end -->
-[3]: http://xyz.com
+[3]: https://billybunn-401-lab-09.herokuapp.com/
 <!-- front-end -->
 [4]: http://xyz.com
 <!-- swagger -->
 [5]: http://xyz.com
 <!-- jsdoc-->
-[6]: heroku-link/docs 
+[6]: https://billybunn-401-lab-09.herokuapp.com/docs/ 
 
 ## API Server
 
