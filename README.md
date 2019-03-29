@@ -1,20 +1,27 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
+[![Build Status](https://travis-ci.com/401-advanced-javascript-billybunn/lab-09.svg?branch=working)](https://travis-ci.com/401-advanced-javascript-billybunn/lab-09)
+
+## Notes
+* UML diagrams done
+* jsdocs almost complete
+* started swagger, but had trouble completing (and getting it hosted somewhere?)
+* didn't have time to write the tests. also think there's an issue with supergoose
 
 <!-- LINKS -->
 <!-- Replace the link for each in brackets below -->
 <!-- PR (working into submission) -->
-[1]: http://xyz.com
+[1]: https://github.com/401-advanced-javascript-billybunn/lab-09/pull/1
 <!-- travis build -->
-[2]: https://www.travis-ci.com/YOUR_ORG_NAME/REPO_NAME
+[2]: https://travis-ci.com/401-advanced-javascript-billybunn/lab-09/builds/106270634
 <!-- back-end -->
-[3]: http://xyz.com
+[3]: https://billybunn-401-lab-09.herokuapp.com/
 <!-- front-end -->
 [4]: http://xyz.com
 <!-- swagger -->
 [5]: http://xyz.com
 <!-- jsdoc-->
-[6]: heroku-link/docs 
+[6]: https://billybunn-401-lab-09.herokuapp.com/docs/ 
 
 ## API Server
 
@@ -68,6 +75,8 @@ Usage Notes or examples -->
 * What assertions need to be / should be made? -->
 
 #### UML
+![get](./assets/all.jpg)
+
 ##### `GET /api/v1/:model`
 ![get](./assets/get.jpg)
 
