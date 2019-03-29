@@ -5,7 +5,7 @@
 <!-- LINKS -->
 <!-- Replace the link for each in brackets below -->
 <!-- PR (working into submission) -->
-[1]: http://xyz.com
+[1]: https://github.com/401-advanced-javascript-billybunn/lab-09/pull/1
 <!-- travis build -->
 [2]: https://travis-ci.com/401-advanced-javascript-billybunn/lab-09/builds/106270634
 <!-- back-end -->
