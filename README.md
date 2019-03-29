@@ -2,6 +2,12 @@
 =================================================
 [![Build Status](https://travis-ci.com/401-advanced-javascript-billybunn/lab-09.svg?branch=working)](https://travis-ci.com/401-advanced-javascript-billybunn/lab-09)
 
+## Notes
+* UML diagrams done
+* jsdocs almost complete
+* started swagger, but had trouble completing (and getting it hosted somewhere?)
+* didn't have time to write the tests. also think there's an issue with supergoose
+
 <!-- LINKS -->
 <!-- Replace the link for each in brackets below -->
 <!-- PR (working into submission) -->
