@@ -68,6 +68,8 @@ Usage Notes or examples -->
 * What assertions need to be / should be made? -->
 
 #### UML
+![get](./assets/all.jpg)
+
 ##### `GET /api/v1/:model`
 ![get](./assets/get.jpg)
 
